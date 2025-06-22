@@ -8,9 +8,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GKE" alt="Google Cloud / GKE" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub" width="40" height="40"/>&nbsp; </p>
 
+**Summary:** Used GitHub Actions to automate the CI/CD pipeline, including building Docker images, pushing to Google Artifact Registry, and deploying to GKE. Managed secrets through GitHub repository settings and monitored deployments via GCP.
+
 **Go to MLOPS_Project8_outputs for results**
 
-Highlights
+**Highlights**
 
 1.	CI-CD using GIthub Actions.
 2.	Project on pc – push to github repo- now ci-cd start – GCP setup - checkout code from github repo-dockerising the project (building image)-push the image to GCR-stored in artifacts repo-take this image and deploy to GKE.
